@@ -3,7 +3,7 @@ name = "butterfly-classification"
 version = "0.1.0"
 description = "Butterfly images classification with EfficientNetV2"
 authors = [
-    {name = "Arseniy Karpeko",email = "karpenko1298@gmail.com"}
+    {name = "Arseniy Karpenko",email = "karpenko1298@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.11"
