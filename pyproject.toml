@@ -1,0 +1,19 @@
+[project]
+name = "butterfly-classification"
+version = "0.1.0"
+description = "Butterfly images classification with EfficientNetV2"
+authors = [
+    {name = "Arseniy Karpeko",email = "karpenko1298@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [  
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false
